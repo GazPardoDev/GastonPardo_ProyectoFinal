@@ -1,0 +1,63 @@
+@mixin fontStyle($color, $font-size) {
+    font-family: 'Poppins', sans-serif;
+    color: $color;
+    font-size: $font-size;
+    text-align: center;
+    margin: auto;
+    line-height: 30px;
+    font-weight: 300;
+    padding: 10px;
+    width: 60%;
+}
+
+.parrafo1 {
+    @include fontStyle($color-azul-terciario, 22px)
+}
+
+.parrafo2 {
+    @include fontStyle($color-beige-primario, 18px)
+}
+
+@media (max-width: 600px){
+    .parrafo1{
+        width: 100%
+    }
+}
+
+@media (max-width: 600px){
+    .parrafo2{
+        width: 90%
+    }
+}
+
+.separador1 {
+    display: flex;
+    justify-content: center;
+    background-color: $color-azul-terciario;
+    font-family: 'Lora', serif;
+    font-size: $titulo-chico;
+    font-weight: 200;
+    text-align: center;
+    color: #fff;
+    margin: auto;
+    width: 50%;
+    padding: 0px;
+}
+
+.textoseparador {
+    background-color: $color-azul-terciario;
+    font-family:'Lora', serif; 
+    font-size: $titulo-grande;
+    font-weight: 500;
+    color: #ffffff;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    padding: 20px 20% 20px 20%;
+}
+
+@media (max-width: 600px){
+    .textoseparador{
+        padding: 15px 5px 15px 5px
+    }
+}
