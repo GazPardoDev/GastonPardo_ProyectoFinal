@@ -26,5 +26,10 @@ Actualización:
 
 - Incorporé FAVICON en cada página, usando un file formato PNG de 512 px, pensando en íconos de mayor resolución para tables y mobile.
 
-Enlace para visitar mi website final: https://gazpardodev.github.io/GastonPardo_ProyectoFinal/
+- Una vez finalizada la web, usé un servidor (hosting) pesonal con dominio provisorio y subí los archivos vía FTP (Filezilla) en la carpeta Public_html
+
+Enlace público para visitar mi website: http://kandistudio.online
+Enlace de PAGES para visitar mi website final: https://gazpardodev.github.io/GastonPardo_ProyectoFinal/
+
+** Por razones que desconozco, en la página "SERVICIOS" de github pages, no muestra las imágenes, en la versión de mi servidor personal, si las muestra.
 
