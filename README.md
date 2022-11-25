@@ -26,5 +26,5 @@ Actualización:
 
 - Incorporé FAVICON en cada página, usando un file formato PNG de 512 px, pensando en íconos de mayor resolución para tables y mobile.
 
-Enlace para visitar mi website en la etapa 3: https://gazpardodev.github.io/PreEntrega2-Pardo/index.html
+Enlace para visitar mi website final: https://gazpardodev.github.io/GastonPardo_ProyectoFinal/
 
