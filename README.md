@@ -1,12 +1,13 @@
-3ra Pre-entrega para el curso de Desarrollo Web Coderhouse / Alumno Gastón Pardo
+ENTREGA FINAL PROYECTO WEB / CURSO DESARROLLO WEB / COMISIÓN 44715 / ALUMNO GASTÓN PARDO
 
 Actualización:
 
-- Trabajé en una RAMA NUEVA: PreEntrega3-Sass (me interesa ver la evolución del trabajo, con diferentes ramas, al final haré un MERGE).
-- Se trabajó en todas las páginas, mejorando las estructuras y logrando FULL RESPONSIVE cada una de ellas.
+- Trabajé en un repositorio nuevo, se identifica con GASTONPARDO_PROYECTOFINAL
+- Mi trabajo se puede ver en la RAMA MASTER (Me interesa ver la evolución del trabajo, es por eso que dejo los repos anteriores).
+- Se trabajó en todas las páginas, mejorando las estructuras y logrando FULL RESPONSIVE cada una de ellas (Flexbox + Grids + Bootstrap).
 - La página interna SERVICIOS se mejoró el contenido, el módulo central ahora es mucho más claro y mejor diseño, usé: GRIDS y es full responsive.
 - En la página HOME, el banner publicitario en el inferior, se colocó DISPLAY:NONE en versión MOBILE (quedaba muy chico al escalarse proporcionalmente y no se leía bien).
-- La página GALERÍA se mejoró la estructura, usando FLEXBOX y ahora se ve bien en versión mobile.
+- La página GALERÍA se mejoró la estructura, usando FLEXBOX y ahora es responsivo:en versión mobile uso 1 columna.
 - Se aplicó animación en todas las páginas: el LOGO principal tiene leve animación de fade in.
 - En todas las páginas se mejoró el FOOTER, ahora tiene degradé de fondo. mejor legibilidad y el logo destacado (también en responsive).
 
@@ -24,8 +25,6 @@ Actualización:
   "meta name="keywords" content=..."
 
 - Incorporé FAVICON en cada página, usando un file formato PNG de 512 px, pensando en íconos de mayor resolución para tables y mobile.
-
-* Problema a resolver: En la página interna SERVICIOS, no logro hacer ver las 4 imágenes de cada servicio, ésto pasa en la versión subida (pages), en mi versión local funciona correctamente y se ven bien.
 
 Enlace para visitar mi website en la etapa 3: https://gazpardodev.github.io/PreEntrega2-Pardo/index.html
 
